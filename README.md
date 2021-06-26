@@ -192,7 +192,7 @@ plt.legend()
 plt.show()
 ```
 
-<kbd>[!Figure 1.](https://raw.githubusercontent.com/jgalfaro/DL-PoC/master/figures/output_14_0.png?raw=true)</kbd>
+<kbd>[![Figure 1.](https://raw.githubusercontent.com/jgalfaro/DL-PoC/master/figures/output_14_0.png?raw=true)]</kbd>
 #### Figure 1. Evolution of DL probabilities, after some iterations, the victim will favor the take loop action, given that it gets a higher probability with respect to the take bypass action
 
 <kbd>[![Figure 2.](https://raw.githubusercontent.com/jgalfaro/DL-PoC/master/figures/AppletAttackMode.gif?raw=true)](https://youtu.be/SO2qjWpXH5Q)[![Figure 3.](https://raw.githubusercontent.com/jgalfaro/DL-PoC/master/figures/AppletNominalMode.gif?raw=true)](https://youtu.be/lQLjzic_HRo)</kbd>
