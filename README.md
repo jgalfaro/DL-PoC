@@ -196,6 +196,6 @@ plt.show()
 #### Figure 1. Evolution of DL probabilities, after some iterations, the victim will favor the take loop action, given that it gets a higher probability with respect to the take bypass action
 
 <kbd>[![Figure 2.](https://raw.githubusercontent.com/jgalfaro/DL-PoC/master/figures/AppletAttackMode.gif?raw=true)](https://youtu.be/SO2qjWpXH5Q)[![Figure 3.](https://raw.githubusercontent.com/jgalfaro/DL-PoC/master/figures/AppletNominalMode.gif?raw=true)](https://youtu.be/lQLjzic_HRo)</kbd>
-#### Figure 2. Graphical simulations. The left-side animation illustrates the attack mode, in which the red train is under adversarial control, seeking to perpetrate a collision with the blue train. The right-side animation illustrates the defense learning mode.
+#### Figure 2. Graphical simulations. The left-side animation illustrates the attack mode, in which the red train is under adversarial control, seeking to perpetrate a collision with the blue train. The right-side animation illustrates the nominal mode.
 
 
