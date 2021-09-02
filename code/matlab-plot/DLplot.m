@@ -17,7 +17,7 @@ plot(1:46,R(1,:),'r-p',1:46,R(2,:),'b-*')
 legend(...
     'DL Disabled',...
     'DL Enabled',...
-    'FontSize',12, 'Location', 'northwest')
+    'FontSize',14, 'Location', 'northwest')
 grid on;
 
 xlim([0 46])
@@ -26,9 +26,9 @@ groupCenters = @(nGroups,nMembers,interGroupSpace) ...
 %x1CenterTicks = groupCenters(numel(1:5), size(R,2), 1);
 %set(ax,'XTick',x1CenterTicks,'XTickLabels',{'10^1','10^2','10^3','10^4','10^5','10^6','...','\infty'},'FontSize',12)
 x1CenterTicks = groupCenters(numel(1:9), size(R,2), 1);
-set(ax,'XTick',x1CenterTicks,'XTickLabels',{'Low','Medium','High','...','\infty'},'FontSize',12)
-xlabel('Adversary Investment','FontSize',12);
-ylabel('Attack Success Probability','FontSize',12);
+set(ax,'XTick',x1CenterTicks,'XTickLabels',{'Very Low','Low','Medium','High','Very High'},'FontSize',14)
+xlabel('Adversary Resource Investment','FontSize',14);
+ylabel('Attack Success Probability','FontSize',14);
 
 
 function R = successrate(step,m,T,trials,lambda1,lambda2)
