@@ -22,11 +22,11 @@ practices in other areas, employing high safety technologies and
 protocols, we outline a vision for next generation NCS with resilience
 leveraging ideas as such ML and quantum computing.
 
-*Keywords:* Resilience, Cyber-Physical Systems, Artificial Intelligence,
+*Keywords:* Cyber-Physical Systems, Artificial Intelligence,
 Machine Learning, Quantum Computing, Quantum Information, Cyber-Physical
 Attacks.
 
-*Version:* April 21, 2020
+*Version:* September 25, 2021
 
 We reused code from:
 <a href="https://pennylane.ai/qml/demos/tutorial_qubit_rotation.html">Basic tutorial: qubit rotation</a>
