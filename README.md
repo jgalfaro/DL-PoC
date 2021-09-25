@@ -1,5 +1,5 @@
-Supplementary Material to: Blueprint for Next Generation Cyber-
-Physical Resilience using Defense Quantum Machine Learning
+Supplementary Material to: Cyber-Physical Defense in
+the Quantum Era 
 ===
 
 ### Michel Barbeau, Carleton University, School of Computer Science, Canada.
