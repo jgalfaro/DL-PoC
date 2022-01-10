@@ -198,4 +198,31 @@ plt.show()
 <kbd>[![Figure 2.](https://raw.githubusercontent.com/jgalfaro/DL-PoC/master/figures/AppletAttackMode.gif?raw=true)](https://youtu.be/SO2qjWpXH5Q)[![Figure 3.](https://raw.githubusercontent.com/jgalfaro/DL-PoC/master/figures/AppletNominalMode.gif?raw=true)](https://youtu.be/lQLjzic_HRo)</kbd>
 #### Figure 2. Graphical simulations. The left-side animation illustrates the attack mode, in which the red train is under adversarial control, seeking to perpetrate a collision with the blue train. The right-side animation illustrates the nominal mode.
 
+### Acknowledgments
 
+Work partially supported by the Natural Sciences and Engineering
+Research Council of Canada.
+
+
+### Updated code
+
+All the code related to this work is available in <a href="https://github.com/jgalfaro/DL-PoC/tree/main/code">this repository</a>. 
+
+## References
+
+If using this code for research purposes, please cite:
+
+[1] M. Barbeau, J. Garcia-Alfaro. "Cyber-Physical Defense in the Quantum Era". Scientific Reports — Nature, to appear, 2021. 
+
+
+```
+@article{barbeau2022srep,
+  title={Cyber-Physical Defense in the Quantum Era},
+  author={Barbeau, Michel and Garcia-Alfaro, Joaquin},
+  journal={Scientific Reports},
+  year={2022},
+  publisher={Nature},
+  doi = {},
+  url = {https://doi.org/},
+}
+```
