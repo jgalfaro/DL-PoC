@@ -6,6 +6,8 @@ the Quantum Era
 
 ### Joaquin Garcia-Alfaro, Institut Polytechnique de Paris, France.
 
+<a href="https://doi.org/10.1038/s41598-022-05690-1">[Full Paper]</a>
+
 ## Abstract
 
 Networked-Control Systems consist of tightly integrated computing,
