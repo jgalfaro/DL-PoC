@@ -212,7 +212,7 @@ All the code related to this work is available in <a href="https://github.com/jg
 
 If using this code for research purposes, please cite:
 
-[1] M. Barbeau, J. Garcia-Alfaro. "Cyber-Physical Defense in the Quantum Era". Scientific Reports — Nature, to appear, 2021. 
+[1] M. Barbeau, J. Garcia-Alfaro. "Cyber-Physical Defense in the Quantum Era". Scientific Reports — Nature, Nature, 12:1905, February 2022. 
 
 
 ```
@@ -221,8 +221,9 @@ If using this code for research purposes, please cite:
   author={Barbeau, Michel and Garcia-Alfaro, Joaquin},
   journal={Scientific Reports},
   year={2022},
-  publisher={Nature},
-  doi = {},
-  url = {https://doi.org/},
+  month={February},
+  publisher={Springer Nature},
+  doi = {10.1038/s41598-022-05690-1},
+  url = {https://doi.org/10.1038/s41598-022-05690-1},
 }
 ```
